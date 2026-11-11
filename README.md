@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Yevhen 👋
 
-<!--
-**PenitentOne-2005/PenitentOne-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer (React, Next.js, TypeScript, Node.js/NestJS), 3+ years of commercial experience.
+I build products end to end: UI, SSR, APIs, PostgreSQL, integrations, deployment.
 
-Here are some ideas to get you started:
+## Selected projects
+- **Wavely** — music streaming platform. Next.js, NestJS, PostgreSQL, Jamendo API. [Repo](https://github.com/PenitentOne-2005/Wavely)
+- **Mood-News-Grid** — rewrites real news in different emotional tones with AI, without changing the facts. [Repo](https://github.com/PenitentOne-2005/Mood-News-Grid)
+- **Habit Tracker** — JWT auth, streaks, GitHub-style activity heatmap. React, NestJS, TypeORM, PostgreSQL. [Repo](https://github.com/PenitentOne-2005/Habit-Tracker)
+- **Cinemate** — 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+- Frontend: React, Next.js (App Router), TypeScript, Tailwind, React Query, Redux/Zustand
+- Backend: Node.js, NestJS, Express, PostgreSQL, Prisma, TypeORM
+- Tools: Docker, Git, Vite, Figma, GitLab, Webpack
+
+## Contact
+Telegram: [@buuubbliik](https://t.me/buuubbliik) · LinkedIn: <your short URL>
