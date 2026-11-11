@@ -15,4 +15,4 @@ I build products end to end: UI, SSR, APIs, PostgreSQL, integrations, deployment
 - Tools: Docker, Git, Vite, Figma, GitLab, Webpack
 
 ## Contact
-Telegram: [@buuubbliik](https://t.me/buuubbliik) · LinkedIn: [Link](www.linkedin.com/in/євген-поздряков)
+Telegram: [@buuubbliik](https://t.me/buuubbliik) · LinkedIn: [Link](https://www.linkedin.com/in/євген-поздряков)
