@@ -3,11 +3,11 @@
 Full-stack developer (React, Next.js, TypeScript, Node.js/NestJS), 3+ years of commercial experience.
 I build products end to end: UI, SSR, APIs, PostgreSQL, integrations, deployment.
 
-## Selected projects
-- **Wavely** — music streaming platform. Next.js, NestJS, PostgreSQL, Jamendo API.
-- **Mood-News-Grid** — rewrites real news in different emotional tones with AI, without changing the facts.
-- **Habit Tracker** — JWT auth, streaks, GitHub-style activity heatmap. React, NestJS, TypeORM, PostgreSQL.
-- **Cinemate** — watch-together app: rooms with friends-only/public access, synced playback and chat over WebSockets. Next.js, NestJS, PostgreSQL, Prisma. (in progress)
+## What I've done
+- Migrated a cinema platform from CSR to Next.js SSR, improving load time
+- Built payments for a Telegram bot with concurrent transactions, using PostgreSQL transactions and retry logic
+- Implemented an HLS video player (hls.js), including iOS playback
+- Built real-time synced playback and chat with WebSockets
 
 ## Tech stack
 - Frontend: React, Next.js (App Router), TypeScript, Tailwind, React Query, Redux/Zustand
