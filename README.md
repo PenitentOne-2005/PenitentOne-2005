@@ -4,10 +4,9 @@ Full-stack developer (React, Next.js, TypeScript, Node.js/NestJS), 3+ years of c
 I build products end to end: UI, SSR, APIs, PostgreSQL, integrations, deployment.
 
 ## What I've done
-- Migrated a cinema platform from CSR to Next.js SSR, improving load time
-- Built payments for a Telegram bot with concurrent transactions, using PostgreSQL transactions and retry logic
-- Implemented an HLS video player (hls.js), including iOS playback
-- Built real-time synced playback and chat with WebSockets
+- Migrated a cinema platform (Next-films) from CSR React to Next.js SSR, reducing initial load time by 32.4% and improving SEO
+- Built the backend of a Telegram bot for Tron crypto transactions (Launch United): safe concurrent payments via PostgreSQL transactions and retry logic
+- Building real-time synced playback and chat with WebSockets (Next-films).
 
 ## Tech stack
 - Frontend: React, Next.js (App Router), TypeScript, Tailwind, React Query, Redux/Zustand
