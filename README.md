@@ -6,7 +6,7 @@ I build products end to end: UI, SSR, APIs, PostgreSQL, integrations, deployment
 ## What I've done
 - Migrated a cinema platform (Next-films) from CSR React to Next.js SSR, reducing initial load time by 32.4% and improving SEO
 - Built the backend of a Telegram bot for Tron crypto transactions (Launch United): safe concurrent payments via PostgreSQL transactions and retry logic
-- Building real-time synced playback and chat with WebSockets (Next-films).
+- Built real-time watch-together mode with synced playback and chat over WebSockets (Next-films)
 
 ## Tech stack
 - Frontend: React, Next.js (App Router), TypeScript, Tailwind, React Query, Redux/Zustand
